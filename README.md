@@ -10,7 +10,7 @@ Features:
 Encryption: Adds a key value to each pixel's RGB values to encrypt the image. Decryption: Subtracts the key value from each pixel's RGB values to decrypt the image. User Input: Allows users to choose between encryption and decryption, and specify file paths and keys.
 
 How to Use:
-Clone the repository:git clone https://github.com/mihad077/PRODIGY_CS_02
+Clone the repository:git clone https://github.com/mihad077/PRODIGY_CS_02.git
 
 cd PRODIGY_CS_02
 
